@@ -1,0 +1,6 @@
+src-git packages https://github.com/immortalwrt/packages.git^7062a27
+src-git luci https://github.com/immortalwrt/luci.git^c3554c9
+src-git routing https://github.com/immortalwrt/routing.git^58fb813
+src-git telephony https://github.com/openwrt/telephony.git^f56b9ff
+src-git bypass https://github.com/kiddin9/openwrt-bypass.git
+src-git helmi https://github.com/helmiau/helmiwrt-packages.git
